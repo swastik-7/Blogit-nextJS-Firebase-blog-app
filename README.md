@@ -1,5 +1,8 @@
-## Next + Firebase Blog app 🔥
+## NextJS + Firebase Blog app 🔥
 
-This Repo has code for my Next js + firebase course on Youtube
-Link - https://youtu.be/m9tPoGa_8p8
+This app is designed using Next.js to create a blog. Blogs are remotely stores on firebase(Cloud Firestore).
+Email Authentication is also added.
+.env file is not created for now. It can be created to seperate and hide your firebase credentials from the actual code.
+
+
 
